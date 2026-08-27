@@ -38,3 +38,7 @@ API RESTful transaccional desarrollada con **Spring Boot** que gestiona la lógi
 - **Base de Datos:** MySQL / PostgreSQL
 
 ---
+
+🔗 **Frontend del Proyecto:** [ecommerce-frontend-angular](https://github.com/Jaimeferrr/ecommerce-frontend-angular/tree/master
+
+---
